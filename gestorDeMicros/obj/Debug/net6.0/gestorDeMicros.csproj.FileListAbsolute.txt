@@ -1,0 +1,15 @@
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.csproj.AssemblyReference.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.AssemblyInfoInputs.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.AssemblyInfo.cs
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.csproj.CoreCompileInputs.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/bin/Debug/net6.0/gestorDeMicros
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/bin/Debug/net6.0/gestorDeMicros.deps.json
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/bin/Debug/net6.0/gestorDeMicros.runtimeconfig.json
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/bin/Debug/net6.0/gestorDeMicros.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/bin/Debug/net6.0/gestorDeMicros.pdb
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/refint/gestorDeMicros.dll
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.pdb
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/gestorDeMicros.genruntimeconfig.cache
+/home/juan/Documentos/proyectos simples/proyecto en consola C#/gestor de micros/gestorDeMicros/obj/Debug/net6.0/ref/gestorDeMicros.dll
