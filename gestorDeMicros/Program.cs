@@ -2,7 +2,8 @@
 namespace gestorDeMicros{
     class Program{
         public static void Main(string[] args){
-            Console.WriteLine("hello world");
+            string hola = "hello";
+            Console.WriteLine(hola);
         }
     }
 }
